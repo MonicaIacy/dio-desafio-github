@@ -1,2 +1,2 @@
-# Projeto sobre GitHub - Bootcamp JavaScript
+# Projeto sobre GitHub - Bootcamp TakeBlip
 Desafio de projeto sobre Git/GitHub
